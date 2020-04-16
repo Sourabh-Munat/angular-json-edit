@@ -1,0 +1,6 @@
+p {
+  font-family: Lato;
+}
+:host ::ng-deep json-editor > div {
+  height: 400px;
+}
