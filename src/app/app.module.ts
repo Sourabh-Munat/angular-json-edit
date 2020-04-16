@@ -1,7 +1,6 @@
 import { NgModule } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
-import { FormsModule } from "@angular/forms";
 import { NgJsonEditorModule } from "ang-jsoneditor";
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import {
